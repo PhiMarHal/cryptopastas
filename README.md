@@ -1,0 +1,2 @@
+# cryptopastas
+Crypto-related copypastas.
